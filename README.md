@@ -6,4 +6,4 @@ Contribution Agreement
 - Use clear commit messages.
 - All messages must go through a pull request
 - At least one teammate must review before merging.
-- 
+
